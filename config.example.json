@@ -10,10 +10,8 @@
         "129863219696239848"
       ],
       "options": {
-        "title": "New Copied Message",
-        "richEmbed": true,
-        "richEmbedColor": 30975,
-        "includeSource": true,
+        "richEmbed": false,
+        "includeSource": false,
         "removeEveryone": true,
         "removeHere": true,
         "copyRichEmbed": true,
